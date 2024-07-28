@@ -40,7 +40,7 @@ print(3 in arr) # Output / Saída / Salida: True
 # Finding the length of the array
 # Encontrando o tamanho do array
 # Encontrando el tamaño del array
-print(len(arr)) # Output / Saída / Salida: 6
+print(len(arr)) # Output / Saída / Salida: 5
 
 # Finding the index of an element
 # Encontrando o índice de um elemento

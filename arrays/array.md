@@ -51,7 +51,7 @@ print(3 in arr) # Output: True
 print(len(arr)) # Output: 5
 
 # Finding the index of an element
-print(arr.index(4)) # Output: 6
+print(arr.index(4)) # Output: 2
 ```
 
 ## Conclusion
@@ -131,7 +131,7 @@ print(3 in arr) # Saída: True
 print(len(arr)) # Saída: 5
 
 # Encontrando o índice de um elemento
-print(arr.index(4)) # Saída: 6
+print(arr.index(4)) # Saída: 2
 ```
 
 ## Conclusão
@@ -208,7 +208,7 @@ for element in arr:
 print(3 in arr)
 
 # Encontrando el tamaño del array
-print(len(arr)) # Salida: 2
+print(len(arr)) # Salida: 5
 
 # Encontrando el índice de un elemento
 print(arr.index(4)) # Salida: 2
